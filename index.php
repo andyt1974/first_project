@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>This is page heading</h1>
+        <h1>This is page heading (Andy Torres)</h1>
     </header>
     <nav>
         <ul>
